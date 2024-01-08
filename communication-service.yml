@@ -1,0 +1,8 @@
+# Global configuration applicable to all environments
+server:
+  port: 8085
+
+# gRPC configuration
+grpc:
+  server:
+    port: 9090
