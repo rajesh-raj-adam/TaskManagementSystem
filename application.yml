@@ -1,0 +1,3 @@
+# Global configuration applicable to all environments
+server:
+  port: 8888
